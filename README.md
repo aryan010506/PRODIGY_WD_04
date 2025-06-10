@@ -18,7 +18,9 @@ This is the fourth task of my Web Development Internship at **Prodigy Infotech**
 - Responsive Design Principles
 
 📸 Preview
-
+![Image](https://github.com/user-attachments/assets/57010ba7-3ac0-4591-9b61-9048de458ca4)
+![Image](https://github.com/user-attachments/assets/a440433c-ede3-4307-890e-8dfcfdae5e1e)
+![Image](https://github.com/user-attachments/assets/b61c6c7d-1480-4edd-83aa-9b3c50ea63d4)
 
 ✅ Outcome
 This task helped me understand:
